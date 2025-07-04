@@ -33,21 +33,21 @@ source venv/bin/activate
 3.**Install dependencies:**
 pip install -r requirements.txt
 
-**▶️ How to Run**
+## **▶️ How to Run**
 Run the chatbot using Streamlit:
 streamlit run app.py
 
 
-**✅ Task Completion**
+## **✅ Task Completion**
 This project is developed as part of my internship at CodeAlpha under Task 2: Chatbot for FAQs.
 It demonstrates the use of Natural Language Processing (NLP) techniques to build a basic FAQ chatbot interface.
 
-**📝 Notes**
+## **📝 Notes**
 You can add your own questions and answers in the faq_data.csv file.
 
 Don't forget to download necessary NLTK data (e.g., punkt, stopwords) if running for the first time.
 
-**📄 License**
+## **📄 License**
 This project is for educational purposes and part of an internship assignment. No commercial license is attached.
 
 
